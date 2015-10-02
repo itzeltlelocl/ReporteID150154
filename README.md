@@ -6,6 +6,7 @@ Itzel Tlelo Coyotecatl
 
 ID 150154
  
+
 Variables estáticas
 
 Son propias únicamente de la clase y no de los objetos que pueden llegar a crearse de la misma, por lo tanto, sus valores son compartidos por todos los objetos de la clase. Para invocarla no se necesita crear un objeto de la clase en la que se define, basta con escribir su nombre si es invocada desde la misma clase. Si es invocada desde una clase distinta, debe anteponerse a su nombre, el de la clase en la que se encuentra seguido del operador punto
